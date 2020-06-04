@@ -21,7 +21,6 @@ sdist/
 var/
 *.egg-info/
 .installed.cfg
-*.egg
 
 # env
 env/
