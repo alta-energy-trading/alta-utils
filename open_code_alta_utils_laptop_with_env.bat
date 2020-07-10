@@ -1,0 +1,1 @@
+c:\dev\alta-utils\env\scripts\activate.bat & code c:\dev\alta-utils\
